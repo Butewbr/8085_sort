@@ -1,5 +1,5 @@
 # Ordenador 8085
-Programa de ordenador de 10 valores em 8085.
+Programa ordenador de um vetor de 10 valores em 8085.
 
 Este programa foi feito para uma tarefa da disciplina Organização e Arquitetura de Computadores I. Segue a tarefa:
 
