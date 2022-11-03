@@ -24,7 +24,7 @@
 ;   5.2. Caso um número do vetor for menor que o da coordenada atual e tem uma coordenada maior, trocamos eles de lugar.
 ;   5.3. Ao fim da ordenação, voltar ao modo stand by.
 
-.org 0039H                  ; programa começa na endereço 0000H
+.org 0039H                  ; programa começa na endereço 0039H
 stdby:  JMP stdby
 
         LXI H, 1000H        ; guiamos a memória onde queremos
